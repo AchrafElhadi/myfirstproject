@@ -1,3 +1,3 @@
 var heho="test";
 
-Console.log(heho);
+var b="hehe"
